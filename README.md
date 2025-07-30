@@ -37,4 +37,4 @@ Durante esse projeto, pratiquei manipulação do DOM, uso de `addEventListener`,
 git clone https://github.com/JeffersonBenetti/GeradorDeSenhas.git
 ````
 ## Site do Projeto:
-<a href=''>Acessar</a>
+<a href='https://gerador-de-senhas-jb.netlify.app/'>Acessar</a>
